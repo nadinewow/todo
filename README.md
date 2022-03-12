@@ -1,6 +1,2 @@
-# My first project - todo
-### Steps:
-- Clone repository
-- Add code
-- push
-
+# Обучение
+### Здесь я буду учиться пользоваться FastApi
